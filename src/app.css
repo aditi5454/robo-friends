@@ -1,8 +1,8 @@
 
 .app{
     text-align: center;
-    font-family: 'Lucida Handwriting';
 }
 h1{
-   color: #0ccac4;
+    font-family: 'Lucida Handwriting';
+    color: #0ccac4;
 }
